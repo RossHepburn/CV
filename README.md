@@ -7,7 +7,7 @@ Code examples
 --
 
 | [Slate](https://github.com/RossHepburn/slate-1) | [Rock, Paper, Scissors, Lizard, Spock](https://github.com/RossHepburn/Rock-Paper-Scissors/tree/master) | [Boris-Bikes](https://github.com/RossHepburn/Boris-Bikes) |
-|: |: |: |
+|:------ |:---------- |:--------------- |
 | A team based project at [Makers Academy](makersacademy.com). Slate allows students communicate problems they are having with their code to teachers.  | A sinatra web app that allows users to play the game RPSLS from the popular show The Big Bang Theory.  | A Ruby exercise that focuses on OOP powered by TDD to replicate the London Boris Bike program |
 
 ### Skills
